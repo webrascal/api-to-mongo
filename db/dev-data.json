@@ -1,0 +1,35 @@
+[
+  {
+    "name": "test",
+    "data": {
+      "name": "topic",
+      "throughput": {
+        "structure": 124,
+        "desc": "arbitrary",
+        "another": "stuff"
+      }
+    }
+  },
+  {
+    "name": "test",
+    "data": {
+      "name": "topic",
+      "throughput": {
+        "structure": 124,
+        "desc": "arbitrary",
+        "another": "stuff"
+      }
+    }
+  },
+  {
+    "name": "test",
+    "data": {
+      "name": "topic",
+      "throughput": {
+        "structure": 124,
+        "desc": "arbitrary",
+        "another": true
+      }
+    }
+  }
+]
