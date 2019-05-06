@@ -1,4 +1,4 @@
-# Write to postgres via REST API
+# Write to mongo via REST API
 
 This project provides you with a RESTful API that you can quickly POST data to for later retrieval.
 This is intended to be used for measuring our SDLC practices and outputs.
